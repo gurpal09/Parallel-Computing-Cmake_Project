@@ -1,0 +1,1 @@
+/usr/bin/cc   -Wall -std=c99 -g -Wunused-variable    CMakeFiles/wave.dir/src/main.c.o CMakeFiles/wave.dir/src/solveWave.c.o CMakeFiles/wave.dir/src/io.c.o CMakeFiles/wave.dir/src/createMesh.c.o CMakeFiles/wave.dir/src/initialize.c.o CMakeFiles/wave.dir/src/validate.c.o  -o ../bin/wave -rdynamic -lm 

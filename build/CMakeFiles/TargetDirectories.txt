@@ -1,0 +1,9 @@
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/package.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/package_source.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/edit_cache.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/rebuild_cache.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/list_install_components.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/install.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/install/local.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/install/strip.dir
+/home/students/gurpalsingh/wave_cmake/build/CMakeFiles/wave.dir
